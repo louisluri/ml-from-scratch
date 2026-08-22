@@ -1,0 +1,9 @@
+{"time":"2026-05-20T00:33:55.145008963-05:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-05-20T00:33:55.145110442-05:00","level":"INFO","msg":"stream: starting","core version":"0.27.0"}
+{"time":"2026-05-20T00:33:55.252944851-05:00","level":"INFO","msg":"stream: created new stream","id":"s6nwpa5h"}
+{"time":"2026-05-20T00:33:55.253126779-05:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-05-20T00:33:55.253164932-05:00","level":"INFO","msg":"sender: started"}
+{"time":"2026-05-20T00:33:55.253160286-05:00","level":"INFO","msg":"writer: started","stream_id":"s6nwpa5h"}
+{"time":"2026-05-20T00:33:55.253193378-05:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-05-20T00:33:55.328928283-05:00","level":"ERROR","msg":"api: HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2026-05-20T00:33:55.329001142-05:00","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 404: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"entity louieluri not found during upsertBucket\",\"path\":[\"upsertBucket\"]}]}"}

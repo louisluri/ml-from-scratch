@@ -1,0 +1,16 @@
+{"time":"2026-05-20T01:00:42.32890486-05:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-05-20T01:00:42.328987618-05:00","level":"INFO","msg":"stream: starting","core version":"0.27.0"}
+{"time":"2026-05-20T01:00:42.423210185-05:00","level":"ERROR","msg":"api: HTTP error","status":401,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2026-05-20T01:00:42.423252802-05:00","level":"ERROR","msg":"featurechecker: failed to load features, all will be disabled","error":"returned error 401: {\"data\":null}"}
+{"time":"2026-05-20T01:00:42.450987944-05:00","level":"ERROR","msg":"api: HTTP error","status":401,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2026-05-20T01:00:42.45107691-05:00","level":"ERROR","msg":"featurechecker: failed to load features, all will be disabled","error":"returned error 401: {\"data\":null}"}
+{"time":"2026-05-20T01:00:42.451164031-05:00","level":"INFO","msg":"stream: created new stream","id":"mf0mqpmk"}
+{"time":"2026-05-20T01:00:42.451217172-05:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-05-20T01:00:42.451310434-05:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-05-20T01:00:42.451352066-05:00","level":"INFO","msg":"writer: started","stream_id":"mf0mqpmk"}
+{"time":"2026-05-20T01:00:42.451369317-05:00","level":"INFO","msg":"sender: started"}
+{"time":"2026-05-20T01:00:42.484019427-05:00","level":"ERROR","msg":"api: HTTP error","status":401,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2026-05-20T01:00:42.484065186-05:00","level":"ERROR","msg":"featurechecker: failed to load features, all will be disabled","error":"returned error 401: {\"data\":null}"}
+{"time":"2026-05-20T01:00:42.484077714-05:00","level":"WARN","msg":"runupserter: server does not expand metric globs but the x_server_side_expand_glob_metrics setting is set; ignoring"}
+{"time":"2026-05-20T01:00:42.514684819-05:00","level":"ERROR","msg":"api: HTTP error","status":401,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2026-05-20T01:00:42.514730097-05:00","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 401: {\"data\":null}"}
