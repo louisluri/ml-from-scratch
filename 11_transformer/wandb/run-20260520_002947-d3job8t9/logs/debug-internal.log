@@ -1,9 +1,0 @@
-{"time":"2026-05-20T00:29:47.696282468-05:00","level":"INFO","msg":"wandb-core"}
-{"time":"2026-05-20T00:29:47.697262672-05:00","level":"INFO","msg":"stream: starting","core version":"0.27.0"}
-{"time":"2026-05-20T00:29:47.911482555-05:00","level":"INFO","msg":"stream: created new stream","id":"d3job8t9"}
-{"time":"2026-05-20T00:29:47.911632252-05:00","level":"INFO","msg":"stream: started"}
-{"time":"2026-05-20T00:29:47.911838617-05:00","level":"INFO","msg":"handler: started"}
-{"time":"2026-05-20T00:29:47.9120488-05:00","level":"INFO","msg":"writer: started","stream_id":"d3job8t9"}
-{"time":"2026-05-20T00:29:47.912102863-05:00","level":"INFO","msg":"sender: started"}
-{"time":"2026-05-20T00:29:47.969796778-05:00","level":"ERROR","msg":"api: HTTP error","status":400,"method":"POST","url":"https://api.wandb.ai/graphql"}
-{"time":"2026-05-20T00:29:47.969877724-05:00","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 400: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"entity not specified, and viewer has no default entity\",\"path\":[\"upsertBucket\"]}]}"}
