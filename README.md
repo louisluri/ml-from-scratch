@@ -18,13 +18,13 @@ For the first 9 models I used Sci Kit Learn, and for the neural networks I used 
 - Model 12: Universal Function Approximator "12_ufa"
 
 
-# Requirements
+## Requirements
 
-numpy
-sklearn
-torch
+- numpy
+- sklearn
+- torch
 
 
-# Note
+## Note
 
 The transformer uses a pretrained tokenizer that I trained using the tokenizers library by hugging face.
